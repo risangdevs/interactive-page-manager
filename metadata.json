@@ -1,0 +1,5 @@
+
+{
+  "name": "Interactive Page Manager",
+  "description": "A React application that allows users to manage a series of form pages with features like drag-to-reorder, adding new pages, and context menus per page. All state is managed in memory."
+}
